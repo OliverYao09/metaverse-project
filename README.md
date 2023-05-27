@@ -10,4 +10,4 @@ Frontend:
  - Framer motion
 
 ## Demo Link
-UNDER DEVELOPMENT -Coming soon :)
+UNDER DEVELOPMENT -Coming soon 😄
