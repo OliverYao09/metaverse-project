@@ -44,7 +44,6 @@ const About = () => (
         className="w-[18px] h-[28px] object-contain mt-[28px]"
       />
     </motion.div>
-    Section
   </section>
 );
 
